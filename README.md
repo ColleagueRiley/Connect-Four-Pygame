@@ -1,4 +1,7 @@
-# Connect-Four-Pygame
+# Connect-Four-Pygame (Archived)
+
+Archived after making c++ versions (in SDL and RSGL)
+
 Connect Four game made in pygame, only one mode rn, normal mode. Play by yourself or with another human in the ssame room as you.
 
 # requirements
